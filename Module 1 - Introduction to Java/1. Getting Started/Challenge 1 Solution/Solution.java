@@ -10,6 +10,8 @@ public class Solution {
             System.out.println("S   S  A   A");
             System.out.println(" SSS   A   A");
 
+        // this is just for testing
+
         }
 
 }
